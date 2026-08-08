@@ -1,0 +1,6 @@
+{
+  "apiKey": "sk-8c23efde632848159333e16dad2637d7",
+  "model": "deepseek-v4-flash",
+  "customPrompt": "Write professional commit messages",
+  "timeout": 30000
+}
