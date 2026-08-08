@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "68f5782495f9fe1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "12edc23b27fd9fd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be725143592e6702",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35bab3c5dae0f4be",
+    "type": "split",
+    "children": [
+      {
+        "id": "f03e029e09e38dd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "173d52340d9e4db3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a88cf3bfcd3df317",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d0384202737ee5c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "997bc8a9fa88e504",
+    "type": "split",
+    "children": [
+      {
+        "id": "f667abaff524723e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "534ae280574425fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Dashboard/Syntax.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c6bc4bd58e9ec5f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2a2bd221f5b5eb8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8463ff89e0e80aab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "61e13e1dce3e6214",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "be725143592e6702",
+  "lastOpenFiles": [
+    "01 Dashboard/Roadmap.md",
+    "06 Resources/Untitled.md",
+    "08 Career/Career Roadmap",
+    "08 Career/Learning Goals",
+    "08 Career/Salary Research",
+    "08 Career/Companies",
+    "08 Career/Job Applications",
+    "08 Career/Internships",
+    "08 Career/Certifications",
+    "08 Career/Portfolio",
+    "08 Career/Resume",
+    "08 Career",
+    "06 Resources/Useful Links.md",
+    "06 Resources/Useful Links.md",
+    "03 Machine Learning/NLP.md",
+    "01 Dashboard/Syntax.md",
+    "02 Computer Science/Python.md",
+    "01 Dashboard/QuickLinks.md",
+    "Untitled.md",
+    "01 Computer Science/Python.md",
+    "01 Computer Science/Software Engineering.md",
+    "01 Computer Science/Computer Networks.md",
+    "01 Computer Science/DBMS.md",
+    "01 Computer Science/Operating System.md",
+    "01 Computer Science/DSA.md",
+    "01 Computer Science/OOP.md",
+    "01 Computer Science/SQL.md",
+    "OOP.md",
+    "01 Computer Science/Linux.md",
+    "01 Computer Science/Git.md",
+    "00 Dashboard/Roadmap.md",
+    "00 Dashboard/Quick Links.md",
+    "Welcome.md"
+  ]
+}
