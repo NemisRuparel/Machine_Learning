@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12edc23b27fd9fd0",
+        "id": "9ad27cff92187573",
         "type": "tabs",
         "children": [
           {
-            "id": "be725143592e6702",
+            "id": "a5dc53e04d98006f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,12 +36,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "173d52340d9e4db3",
+            "id": "7944e78132502467",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -162,7 +162,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Machine Learning/Machine Learning/Types of Machine Learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,13 +171,23 @@
             }
           },
           {
-            "id": "9143a1cca932148e",
+            "id": "b85475e8532fac04",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "9f73cf34b5f4f74f",
+            "type": "leaf",
+            "state": {
+              "type": "github-sync-dashboard",
+              "state": {},
+              "icon": "github",
+              "title": "Agentic Git Sync"
             }
           }
         ],
@@ -197,10 +206,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "agentic-git-sync:Agentic Git Sync": false
     }
   },
-  "active": "be725143592e6702",
+  "active": "a5dc53e04d98006f",
   "lastOpenFiles": [
     "03 Machine Learning/Machine Learning/Types of Machine Learning.md",
     "01 Dashboard/Roadmap.md",
