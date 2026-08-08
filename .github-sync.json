@@ -3,7 +3,7 @@
   "remote": "https://github.com/NemisRuparel/Machine_Learning",
   "branch": "main",
   "sync": {
-    "autoIntervalMin": 30,
+    "autoIntervalMin": 5,
     "ignorePatterns": [
       ".DS_Store",
       ".trash/**",
