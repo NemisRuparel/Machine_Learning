@@ -13,7 +13,7 @@
   "ai": {
     "enabled": true,
     "silentMode": true,
-    "silentMinConfidence": 3,
+    "silentMinConfidence": 1,
     "openaiModel": "gpt-5.5",
     "geminiModel": "gemini-3.6-flash",
     "claudeModel": "claude-sonnet-4-5",
