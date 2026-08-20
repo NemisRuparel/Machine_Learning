@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9ad27cff92187573",
+        "id": "b7b1743dc09a41b2",
         "type": "tabs",
         "children": [
           {
-            "id": "a5dc53e04d98006f",
+            "id": "ac1074d0366eaa7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Machine Learning/Machine Learning/Types of Machine Learning.md",
+                "file": "02 Computer Science/Python/Hello World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types of Machine Learning"
+              "title": "Hello World"
             }
           }
         ],
@@ -41,8 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -93,6 +93,7 @@
       {
         "id": "f667abaff524723e",
         "type": "tabs",
+        "dimension": 67.58034026465029,
         "children": [
           {
             "id": "534ae280574425fa",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Dashboard/Syntax.md",
+                "file": "02 Computer Science/Python/Hello World.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "02 Computer Science/Python/Hello World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -143,6 +144,21 @@
             }
           },
           {
+            "id": "61e13e1dce3e6214",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 Computer Science/Python/Hello World.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
             "id": "8463ff89e0e80aab",
             "type": "leaf",
             "state": {
@@ -157,31 +173,7 @@
             }
           },
           {
-            "id": "61e13e1dce3e6214",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "b85475e8532fac04",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "9f73cf34b5f4f74f",
+            "id": "d143c3378b1515f1",
             "type": "leaf",
             "state": {
               "type": "github-sync-dashboard",
@@ -189,9 +181,36 @@
               "icon": "github",
               "title": "Agentic Git Sync"
             }
+          },
+          {
+            "id": "da3095bed299c026",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
+      },
+      {
+        "id": "7bdf7ffdb5a66caf",
+        "type": "tabs",
+        "dimension": 32.41965973534972,
+        "children": [
+          {
+            "id": "4cb60de75ec1fd1c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,20 +219,27 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "agentic-git-sync:Agentic Git Sync": false
+      "agentic-git-sync:Agentic Git Sync": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "a5dc53e04d98006f",
+  "active": "d143c3378b1515f1",
   "lastOpenFiles": [
-    "03 Machine Learning/Machine Learning/Types of Machine Learning.md",
+    "02 Computer Science/Python/Functions.md",
+    "02 Computer Science/Python/Bugs.md",
+    "\"Hello World\".md",
+    "\"[[Hello World.md",
+    "02 Computer Science/Python/Hello World.md",
     "01 Dashboard/Roadmap.md",
+    "Untitled.md",
+    "02 Computer Science/Python/Hello World..!.md",
+    "03 Machine Learning/Machine Learning/Types of Machine Learning.md",
     "06 Resources/Untitled.md",
     "08 Career/Career Roadmap",
     "08 Career/Learning Goals",
@@ -231,7 +257,6 @@
     "01 Dashboard/Syntax.md",
     "02 Computer Science/Python.md",
     "01 Dashboard/QuickLinks.md",
-    "Untitled.md",
     "01 Computer Science/Python.md",
     "01 Computer Science/Software Engineering.md",
     "01 Computer Science/Computer Networks.md",
@@ -241,10 +266,6 @@
     "01 Computer Science/OOP.md",
     "01 Computer Science/SQL.md",
     "OOP.md",
-    "01 Computer Science/Linux.md",
-    "01 Computer Science/Git.md",
-    "00 Dashboard/Roadmap.md",
-    "00 Dashboard/Quick Links.md",
-    "Welcome.md"
+    "01 Computer Science/Linux.md"
   ]
 }
