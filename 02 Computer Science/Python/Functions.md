@@ -1,4 +1,4 @@
-# **Functions**
+# Functions
 
 A block of code to perform something 
 
@@ -9,5 +9,8 @@ A block of code to perform something
 
 Input of the function to work with it
 
-**Example:** In print function "H"
+**Example:** In print function "Hello World" is an argument of print function[[Hello World]]
 
+
+
+ 
