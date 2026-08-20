@@ -1,17 +1,21 @@
 # Hello World
 
->print("Hello World")
+```python
+print("Hello World")
+```
 
 ---
 
-## **How to Run ?**
+## **How to Run?**
 
->$ python fileName.py
+```bash
+python fileName.py
+```
 
-**Output:** *Hello World*
+**Output:**
+
+```text
+Hello World
+```
 
 ---
-
-
-
-
