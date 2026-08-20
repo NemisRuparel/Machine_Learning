@@ -9,5 +9,5 @@ A block of code to perform something
 
 Input of the function to work with it
 
-**Example:** In print function 
+**Example:** In print function "H"
 
