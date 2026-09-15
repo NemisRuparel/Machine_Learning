@@ -30,7 +30,6 @@ Triple quotes (`'''` or `"""`) can be used for multi-line strings and are common
 This is a multi-line
 comment-like block.
 """
-
 print("Hello World")
 ```
 
