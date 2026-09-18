@@ -1,8 +1,25 @@
-# Input and Output
-
-## Output
+# Print function
 
 The `print()` function is used to display output on the screen.
+
+```python
+print(object(s), sep=' ', end='\n', file=sys.stdout, flush=False)
+```
+
+- **`object(s)`**: Any object (strings, numbers, lists, etc.), and as many as you like. Python converts them into strings before displaying them.
+
+- **`sep`** _(Optional)_: Specifies how to separate multiple objects. The default is a single space (`' '`).
+
+- **`end`** _(Optional)_: Specifies what to print at the very end of the line. The default is a newline character (`'\n'`), which moves the cursor to the next line.
+
+- **`file`** _(Optional)_: An object with a write method where the output is sent. The default is `sys.stdout` (your screen).
+
+- **`flush=False` (Default):** The output is buffered (stored in memory temporarily) and usually only gets displayed when a newline character (`\n`) is encountered, when the program ends, or when the buffer fills up.
+
+- **`flush=True`:** The output is pushed to the console or stream **instantly**, bypassing any memory buffering
+## Example 
+
+**Input:** 
 
 ```python
 print("Hello World")
