@@ -11,10 +11,14 @@
             "id": "ddaa60244c4cb2c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Dashboard/QuickLinks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "QuickLinks"
             }
           }
         ],
@@ -223,17 +227,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ddaa60244c4cb2c9",
+  "active": "7944e78132502467",
   "lastOpenFiles": [
-    "02 Computer Science/Python/Basics/Pseudo code.md",
-    "02 Computer Science/Python/Basics/Comments.md",
-    "02 Computer Science/Python/Basics/Variables.md",
-    "02 Computer Science/Python/Basics/Input and Output.md",
+    "02 Computer Science/Python/01_Basics/Pseudo code.md",
+    "02 Computer Science/Python/01_Basics/Comments.md",
+    "02 Computer Science/Python/01_Basics/Variables.md",
+    "02 Computer Science/Python/01_Basics/Input and Output.md",
     "02 Computer Science/Python/Basics/Return Values.md",
-    "02 Computer Science/Python/Basics/Bugs.md",
-    "02 Computer Science/Python/Basics/Functions.md",
-    "02 Computer Science/Python/Basics/Hello World.md",
-    "02 Computer Science/Python/Basics",
+    "02 Computer Science/Python/01_Basics/Bugs.md",
+    "02 Computer Science/Python/01_Basics/Functions.md",
+    "02 Computer Science/Python/01_Basics/Hello World.md",
+    "02 Computer Science/Python/01_Basics",
     "\"Hello World\".md",
     "\"[[Hello World.md",
     "01 Dashboard/Roadmap.md",
