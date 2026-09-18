@@ -1,3 +1,1 @@
-**Python Docs:** [docs.python.org]
-
-)
+**Python Docs:** [docs.python.org](https://docs.python.org/)
