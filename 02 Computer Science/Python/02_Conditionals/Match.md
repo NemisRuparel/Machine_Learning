@@ -1,3 +1,5 @@
+# Match
+
 The `match` statement is used to compare a value against multiple patterns.
 
 It is similar to a `switch` statement found in some other programming languages.

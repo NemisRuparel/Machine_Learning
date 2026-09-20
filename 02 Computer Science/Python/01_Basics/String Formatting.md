@@ -1,3 +1,5 @@
+# String Formatting
+
 **String formatting** is used to insert values into a string and control how the output is displayed.
 
 ---

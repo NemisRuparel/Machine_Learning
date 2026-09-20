@@ -1,3 +1,5 @@
+# Loops 
+
 A **loop** is used to execute a block of code repeatedly.
 
 Python provides two main types of loops:
