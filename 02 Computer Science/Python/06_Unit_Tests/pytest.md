@@ -41,7 +41,7 @@ python -m pytest --version
 
 Create two files in the same directory.
 
-**File:** `**calculator.py**`
+**File:** `calculator.py`
 
 ```
 def add(a, b):
@@ -56,7 +56,7 @@ def multiply(a, b):
     return a * b
 ```
 
-**File:** `**test_calculator.py**`
+**File:** `test_calculator.py`
 
 ```
 from calculator import add, subtract, multiply
@@ -122,7 +122,7 @@ Each assertion checks a different condition. If any assertion fails, the test fa
 
 Use `pytest.raises()` to verify that code raises the expected exception.
 
-**File:** `**test_exceptions.py**`
+**File:** `test_exceptions.py`
 
 ```
 import pytest
@@ -219,7 +219,7 @@ pytest runs the test once for each set of parameters, producing four test cases.
 - **PASSED:** The test completed successfully.
     
 - **FAILED:** The test ran, but an assertion or other check failed.
-    
+	
 - **ERROR:** A test or fixture could not execute properly.
     
 - **SKIPPED:** The test was intentionally skipped.
